@@ -1,5 +1,5 @@
-[![Author](https://img.shields.io/badge/Author-Sanket%20Jaybhaye-blue)](https://github.com/)  
-[![Version](https://img.shields.io/badge/Version-1.3-green)]()  
+[![Author](https://img.shields.io/badge/Author-Sanket%20Jaybhaye-blue)](https://github.com/)
+[![Version](https://img.shields.io/badge/Version-1.3-green)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
 # Kali WebServer V2 - Local File Manager
