@@ -1,3 +1,7 @@
+[![Author](https://img.shields.io/badge/Author-Sanket%20Jaybhaye-blue)](https://github.com/)  
+[![Version](https://img.shields.io/badge/Version-1.3-green)]()  
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
 # Kali WebServer V2 - Local File Manager
 
 A lightweight Python web server for **local or LAN file management** with a modern UI.  
@@ -38,3 +42,4 @@ Upload, download, delete, and preview files directly from your browser without a
 ```bash
 git clone <repo_url>
 cd kali-webserver
+python3 myServer.py
